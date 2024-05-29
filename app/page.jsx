@@ -1,4 +1,5 @@
-
+import HistorySidebar from "./components/HistorySidebar"
+import RightSection from "./components/RightSection"
 
 export default function Home() {
   return (
