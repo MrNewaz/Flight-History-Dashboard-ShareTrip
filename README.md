@@ -8,7 +8,7 @@
 - Tailwind [UI Library]
 
 ## Features:
-- Pixel perfect figma to code.
+- Pixel perfect figma to Next.js application.
 
 ## Commands to run the project:
 
